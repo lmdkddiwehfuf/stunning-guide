@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kartik | Data Entry Portfolio</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #121212;
+      color: #ffffff;
+    }
+    header {
+      background-color: #0d47a1;
+      padding: 60px 20px;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 48px;
+      margin: 0;
+    }
+    header p {
+      font-size: 20px;
+      color: #cfd8dc;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    h2 {
+      color: #64b5f6;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+    }
+    th, td {
+      border: 1px solid #444;
+      padding: 10px;
+      text-align: left;
+    }
+    th {
+      background-color: #1976d2;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Kartik</h1>
+    <p>Data Entry Spe
+<h1>Kartik</h1>
+    <p>Data Entry Specialist | Excel | Google Sheets | Data Cleaning</p>
+  </header>
+
+  <section>
+    <h2>Skills & Tools</h2>
+    <ul>
+      <li>Microsoft Excel (Formulas, Pivot Tables, Charts)</li>
+      <li>Google Sheets (Collaboration, Data Entry)</li>
+      <li>Data Cleaning & Organization</li>
+      <li>CSV, XLSX, Google Drive Tools</li>
+      <li>Fast typing speed with high accuracy</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Sample Work - Client Database</h2>
+    <table>
+      <tr>
+        <th>Client Name</th>
+        <th>Email</th>
+        <th>Phone Number</th>
+        <th>Country</th>
+      </tr>
+      <tr>
+        <td>Alice Johnson</td>
+        <td>alicej@example.com</td>
+        <td>123-456-7890</td>
+        <td>USA</td>
+      </tr>
+      <tr>
+        <td>Raj Mehta</td>
+        <td>raj.m@example.com</td>
+        <td>98231-23423</td>
+        <td>India</td>
+      </tr>
+      <tr>
+        <td>Laura Kim</td>
+        <td>laura.kim@mail.com</td>
+        <td>5
+<td>laura.kim@mail.com</td>
+        <td>555-892-1234</td>
+        <td>Canada</td>
+      </tr>
+      <tr>
+        <td>Mohammed Ali</td>
+        <td>m.ali@company.org</td>
+        <td>00971-553311</td>
+        <td>UAE</td>
+      </tr>
+    </table>
+  </section>
+</body>
+</html>
