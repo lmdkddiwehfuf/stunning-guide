@@ -95,12 +95,7 @@
         <td>555-892-1234</td>
         <td>Canada</td>
       </tr>
-      <tr>
-        <td>Mohammed Ali</td>
-        <td>m.ali@company.org</td>
-        <td>00971-553311</td>
-        <td>UAE</td>
-      </tr>
+    
     </table>
   </section>
 </body>
